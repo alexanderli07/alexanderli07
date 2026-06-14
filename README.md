@@ -1,27 +1,22 @@
-<!-- ======================= ANIMATED WAVING HEADER ======================= -->
-<!-- Swap the gradient by editing color=0:1a1b27,100:4977c9 (start,end hex, no #). Resize via height=. -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4977c9&height=300&section=header&text=Alexander%20Li&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20CS%20%2B%20Finance%20%40%20University%20of%20Waterloo&descSize=20&descAlignY=58" alt="header"/>
-
-<!-- ======================= SOCIAL BADGES ======================= -->
-<!-- TODO: replace the # links below with your real profile URLs -->
+<!-- ======================= HEADER + CHIPS (tight cluster) ======================= -->
+<!-- Header banner: swap gradient via color=0:1a1b27,100:4977c9 (start,end hex, no #); resize via height=. -->
+<!-- Social links: swap discord.com / instagram.com / etc. for your real profile URLs. -->
 <div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-
-</div>
-
-<!-- ======================= CHESS RATINGS (below socials) ======================= -->
-<!-- Live ratings from chess.com's public API. Delete any time control you don't play, or that badge errors. -->
-<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4977c9&height=300&section=header&text=Alexander%20Li&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20CS%20%2B%20Finance%20%40%20University%20of%20Waterloo&descSize=20&descAlignY=58" alt="header"/>
+  <br>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.reddit.com"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
+  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <br><br>
   <a href="https://www.chess.com/member/TheFaix">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FTheFaix%2Fstats&query=%24.chess_rapid.last.rating&label=Rapid&style=for-the-badge&logo=chessdotcom&logoColor=white&color=70a5fd" alt="Chess.com Rapid"/>
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FTheFaix%2Fstats&query=%24.chess_blitz.last.rating&label=Blitz&style=for-the-badge&logo=chessdotcom&logoColor=white&color=bf91f3" alt="Chess.com Blitz"/>
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FTheFaix%2Fstats&query=%24.chess_bullet.last.rating&label=Bullet&style=for-the-badge&logo=chessdotcom&logoColor=white&color=38bdae" alt="Chess.com Bullet"/>
   </a>
 </div>
+
+<br>
 
 <!-- ======================= SPOTIFY (compact, near top — no own section) ======================= -->
 <!-- Compact spotify-embed card; clicking it redirects to the track/your profile. -->
