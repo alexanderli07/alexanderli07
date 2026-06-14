@@ -27,7 +27,7 @@
 <!-- Compact spotify-embed card; clicking it redirects to the track/your profile. -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3wvniimn6pkd3adzbtcwz3bmb&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3wvniimn6pkd3adzbtcwz3bmb&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3wvniimn6pkd3adzbtcwz3bmb&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=70a5fd&bar_color_cover=false&mode=dark">
   </a>
 </p>
 
@@ -105,8 +105,8 @@
 
 ---
 
-<!-- ======================= DEV QUOTE (rotates on each load) ======================= -->
-<h2 align="center">「 💭 」 Dev Quote of the Moment</h2>
+<!-- ======================= QUOTE OF THE DAY (random quote, refreshes on cache cycle) ======================= -->
+<h2 align="center">「 💭 」 Quote of the Day</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=c0caf5&authorColor=70a5fd&symbolColor=bf91f3&backgroundColor=1a1b27" alt="Random Dev Quote"/>
@@ -126,4 +126,4 @@
 </div>
 
 <!-- ======================= ANIMATED WAVING FOOTER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4977c9,100:1a1b27&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4977c9,100:1a1b27&height=140&section=footer" alt="footer"/>
