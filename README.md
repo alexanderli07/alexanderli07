@@ -61,7 +61,7 @@
   <br>
   💻 I love playing Chess in my free time and learning new things
   <br>
-  👨‍💻 I’m currently working on some super cool side projects!
+  👨‍💻 I’m currently working as a Finance Developer @ Q Wealth Partners
   <br>
   💬 Ask me anything by opening an issue <a href="https://github.com/alexanderli07/alexanderli07/issues" title="Issue">here</a>
   <br>
