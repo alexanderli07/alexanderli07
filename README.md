@@ -1,15 +1,15 @@
 <!-- ======================= ANIMATED WAVING HEADER ======================= -->
 <!-- Swap the gradient by editing color=0:1a1b27,100:4977c9 (start,end hex, no #) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4977c9&height=200&section=header&text=Alexander%20Li&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20CS%20%2B%20Finance%20%40%20University%20of%20Waterloo&descSize=18&descAlignY=58" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4977c9&height=160&section=header&text=Alexander%20Li&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20CS%20%2B%20Finance%20%40%20University%20of%20Waterloo&descSize=16&descAlignY=64" alt="header"/>
 
 <!-- ======================= SOCIAL BADGES ======================= -->
 <!-- TODO: replace the # links below with your real profile URLs -->
 <div align="center">
 
-[![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=discord&logoColor=white&color=0D76A8)](https://discord.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://instagram.com)
-[![Reddit Badge](https://img.shields.io/badge/Reddit-Profile-informational?style=flat&logo=reddit&logoColor=white&color=0D76A8)](https://www.reddit.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=0D76A8)](https://twitter.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
 </div>
 
