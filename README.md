@@ -108,10 +108,30 @@
   </a>
 </div>
 
-<!-- ======================= QUOTE ======================= -->
-<h2 align="center">「 📣 」 Quote Of The Century</h2>
+<!-- divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:4977c9&height=2" alt="divider"/>
+
+<!-- ======================= CHESS RATINGS ======================= -->
+<!-- Replace YOUR_CHESSCOM_USERNAME (4 places below) with your chess.com handle. -->
+<!-- Delete any time control you don't play (rapid/blitz/bullet), or that badge will show an error. -->
+<h2 align="center">「 ♟️ 」 Chess Ratings</h2>
+
 <div align="center">
-  <p>“There is nothing in a caterpillar that tells you it's going to be a butterfly.” ― R. Buckminster Fuller.</p>
+  <a href="https://www.chess.com/member/YOUR_CHESSCOM_USERNAME">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FYOUR_CHESSCOM_USERNAME%2Fstats&query=%24.chess_rapid.last.rating&label=Rapid&style=for-the-badge&logo=chessdotcom&logoColor=white&color=70a5fd" alt="Chess.com Rapid"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FYOUR_CHESSCOM_USERNAME%2Fstats&query=%24.chess_blitz.last.rating&label=Blitz&style=for-the-badge&logo=chessdotcom&logoColor=white&color=bf91f3" alt="Chess.com Blitz"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FYOUR_CHESSCOM_USERNAME%2Fstats&query=%24.chess_bullet.last.rating&label=Bullet&style=for-the-badge&logo=chessdotcom&logoColor=white&color=38bdae" alt="Chess.com Bullet"/>
+  </a>
+</div>
+
+<!-- divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:4977c9&height=2" alt="divider"/>
+
+<!-- ======================= DEV QUOTE (rotates on each load) ======================= -->
+<h2 align="center">「 💭 」 Dev Quote of the Moment</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=c0caf5&authorColor=70a5fd&symbolColor=bf91f3&backgroundColor=1a1b27" alt="Random Dev Quote"/>
 </div>
 
 <br>
