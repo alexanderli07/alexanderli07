@@ -1,0 +1,36 @@
+name: Update Markets Card
+
+# Fetches the latest prices for the S&P 500, NASDAQ, Bitcoin and gold from
+# Yahoo Finance, regenerates markets.svg, and pushes it to the "markets" branch.
+# The README reads it from that branch via raw.githubusercontent.com.
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate markets.svg
+        run: python scripts/markets.py
+
+      - name: Push to the markets branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: markets
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

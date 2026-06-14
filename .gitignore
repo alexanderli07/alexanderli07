@@ -1,0 +1,3 @@
+# Generated locally when testing scripts/markets.py.
+# CI regenerates it and publishes to the "markets" branch, so it never belongs on main.
+dist/
