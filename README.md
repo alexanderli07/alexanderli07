@@ -4,10 +4,11 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4977c9&height=300&section=header&text=Alexander%20Li&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20CS%20%2B%20Finance%20%40%20University%20of%20Waterloo&descSize=20&descAlignY=58" alt="header"/>
   <br>
+  <a href="https://github.com/alexanderli07"><img src="https://img.shields.io/github/followers/alexanderli07?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=4977c9" alt="GitHub"/></a>
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.reddit.com"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://x.com"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <br><br>
   <a href="https://www.chess.com/member/TheFaix">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FTheFaix%2Fstats&query=%24.chess_rapid.last.rating&label=Rapid&style=for-the-badge&logo=chessdotcom&logoColor=white&color=70a5fd" alt="Chess.com Rapid"/>
@@ -22,14 +23,14 @@
 <!-- Compact spotify-embed card; clicking it redirects to the track/your profile. -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3wvniimn6pkd3adzbtcwz3bmb&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3wvniimn6pkd3adzbtcwz3bmb&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=70a5fd&bar_color_cover=false&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3wvniimn6pkd3adzbtcwz3bmb&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1b27&interchange=false&profanity=false&hide_remaster=false&bar_color=70a5fd&bar_color_cover=false&mode=dark" alt="Spotify now playing"/>
   </a>
 </p>
 
 <!-- ======================= ABOUT ME ======================= -->
 <br>
 <p align="center">
-  Hi, I'm Alexander Li, an aspiring software engineer from Ontario
+  Hi, I'm Alexander Li, a software engineer from Ontario
   <br>
   <br>
   🏆 <b>Hackathon Achievements:</b>
@@ -107,7 +108,7 @@
 <br>
 <div align="center">
 
-[Check out my latest projects!](http://alexanderli.rf.gd)
+[Check out my latest projects!](https://alexanderli.rf.gd)
 
 </div>
 
