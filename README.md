@@ -98,12 +98,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:4977c9&height=2" alt="divider"/>
 
 <!-- ======================= SPOTIFY NOW PLAYING ======================= -->
-<!-- Setup: go to github.com/kittinan/spotify-github-profile, click "Connect with Spotify", -->
-<!-- authorize, then paste the UID it gives you in place of YOUR_SPOTIFY_UID below. -->
+<!-- Connected via github.com/kittinan/spotify-github-profile. -->
+<!-- bar_color is themed to match the profile (70a5fd); change it to 53b14f for classic Spotify green. -->
 <h2 align="center">「 🎧 」 Currently Vibing To</h2>
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&bar_color=70a5fd&border_radius=10" alt="Spotify Now Playing"/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3wvniimn6pkd3adzbtcwz3bmb&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=70a5fd&bar_color_cover=false&border_radius=10" alt="Spotify Now Playing"/>
+  </a>
 </div>
 
 <!-- ======================= QUOTE ======================= -->
