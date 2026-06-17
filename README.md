@@ -3,7 +3,12 @@
 <!-- Social links: real profiles wired in. Discord shows the handle since no public profile URL exists by username. -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4977c9&height=300&section=header&text=Alexander%20Li&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20CS%20%2B%20Finance%20%40%20University%20of%20Waterloo&descSize=20&descAlignY=58" alt="Alexander Li — Software Engineer | CS + Finance @ University of Waterloo"/>
-  <br>
+  <br><br>
+  <!-- Primary call-to-action: personal portfolio site -->
+  <a href="https://alexanderli.dev/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-alexanderli.dev-4977c9?style=for-the-badge&labelColor=1a1b27" alt="Visit my portfolio — alexanderli.dev" height="40"/>
+  </a>
+  <br><br>
   <a href="https://discord.com" title="Discord: TheFaix."><img src="https://img.shields.io/badge/Discord-TheFaix.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: TheFaix."/></a>
   <a href="https://www.instagram.com/_alexanderli"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.reddit.com/user/TheFaix"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
@@ -105,13 +110,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=c0caf5&authorColor=70a5fd&symbolColor=bf91f3&backgroundColor=1a1b27" alt="Random Dev Quote"/>
-</div>
-
-<br>
-<div align="center">
-
-[Check out my latest projects!](https://alexanderli.rf.gd)
-
 </div>
 
 <!-- ======================= VISITOR BADGE ======================= -->
