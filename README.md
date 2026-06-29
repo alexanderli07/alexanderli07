@@ -14,7 +14,7 @@
   <a href="https://www.reddit.com/user/TheFaix"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
   <a href="https://x.com/alexanderli07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.linkedin.com/in/alexanderli07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://devpost.com/RedNaxela"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
+  <a href="https://devpost.com/alexanderli07"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
   <br><br>
   <a href="https://www.chess.com/member/TheFaix">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FTheFaix%2Fstats&query=%24.chess_rapid.last.rating&label=Rapid&style=for-the-badge&logo=chessdotcom&logoColor=white&color=70a5fd" alt="Chess.com Rapid"/>
