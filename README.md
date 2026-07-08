@@ -66,7 +66,7 @@
   <br>
   💬 Ask me anything by opening an issue <a href="https://github.com/alexanderli07/alexanderli07/issues" title="Issue">here</a>
   <br>
-  📫 How to reach me: <a href="mailto:rednaxela.ca@gmail.com">rednaxela.ca@gmail.com</a>
+  📫 How to reach me: <a href="mailto:alexanderli.dev@gmail.com">alexanderli.dev@gmail.com</a>
 </p>
 <br>
 
