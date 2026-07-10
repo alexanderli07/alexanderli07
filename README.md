@@ -58,7 +58,7 @@
   <i>Participated in 20+ Hackathons total</i>
   <br>
   <br>
-  🏫 I'm studying Computer Science + Finance at the University of Waterloo
+  🏫 I'm studying Computer Science & Finance at the University of Waterloo
   <br>
   💻 I love playing Chess in my free time and learning new things
   <br>
