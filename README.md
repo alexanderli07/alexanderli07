@@ -37,7 +37,7 @@
 <p align="center">
   🏆 <b>Hackathon Achievements:</b>
   <br>
-  <b>Best Quant Trading Bot</b> - Hack The 6ix ('26) 🏎️
+  <b>Best Quant Trading Bot</b> - Hack The 6ix ('26)
   <br>
   <b>1st Place Overall</b> - Formula Null (’25) 🏎️
   <br>
