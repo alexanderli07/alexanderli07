@@ -37,9 +37,11 @@
 <p align="center">
   🏆 <b>Hackathon Achievements:</b>
   <br>
-  <b>1st Place Overall</b> - Formula Null (UW ’25) 🏎️
+  <b>Best Quant Trading Bot</b> - Hack The 6ix ('26) 🏎️
   <br>
-  <b>1st Place Overall</b> - DeltaHacks X (McMaster ’24)
+  <b>1st Place Overall</b> - Formula Null (’25) 🏎️
+  <br>
+  <b>1st Place Overall</b> - DeltaHacks X (’24)
   <br>
   <b>1st Place Overall</b> - RythmHacks (UW ’23)
   <br>
